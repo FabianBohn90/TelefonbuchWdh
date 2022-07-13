@@ -19,5 +19,4 @@ class Datasource() {
             Contact("Aamerta Haraz", "+49 153 63766788")
         )
     }
-
 }
